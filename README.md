@@ -3,6 +3,8 @@ Replaces all `python2*` and `pip2*` commands with error messages.
 
 Why? Because it's 2020 - stop using Python 2!
 
+![no2foryou](pic.jpg)
+
 ## Installation
 **Requires Python 3 (duh)**
 
