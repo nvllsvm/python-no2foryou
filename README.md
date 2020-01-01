@@ -1,4 +1,6 @@
 # no2foryou
+[![pypi](https://badge.fury.io/py/no2foryou.svg)](https://pypi.python.org/pypi/no2foryou/)
+
 Replaces all `python2*` and `pip2*` commands with error messages.
 
 Why? Because it's 2020 - stop using Python 2!
