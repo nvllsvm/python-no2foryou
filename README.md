@@ -3,7 +3,7 @@
 
 Replaces all `python2*` and `pip2*` commands with error messages.
 
-Why? Because it's 2020 - stop using Python 2!
+Why? Because it's 2020 - [stop using Python 2!](https://pythonclock.org/)
 
 ![no2foryou](pic.jpg)
 
